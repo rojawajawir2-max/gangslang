@@ -1,0 +1,16 @@
+{
+  "name": "slang-translator-api",
+  "version": "1.0.0",
+  "description": "Indonesian to English gangster slang translator API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
